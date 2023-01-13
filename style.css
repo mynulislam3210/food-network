@@ -5,15 +5,44 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .flexible-section{
     display: flex;
     margin-left: 40px;
     padding-bottom: 50px;
 }
+.padding-bottom{
+    padding-bottom: 70px;
+}
+.flexible-section2{display: flex;
+
+}
+.images img{
+    width: 97%;
+    height: 55%;
+    padding-right: 100%;
+}
+.padding-innerbox{
+    padding-bottom: 50px;
+    padding-left: 10px;
+}
+.width3{
+    width: 32%;
+    margin: 2%;
+    padding-left: 12px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    padding-top: 13px;
+    border: 5px solid;
+    border-image: linear-gradient(orange,tomato,purple);
+    border-image-slice: 1;
+    
+}
 .aline{
     text-align: center;
-    padding-left: 25%;
-    padding-right: 25%;
+    
 
 }
 .back-img{
@@ -33,6 +62,7 @@ a{
     border-radius: 20px;
     color: aliceblue;
     font-weight: 400;
+
 }
 .half-width{
     width: 50%;
