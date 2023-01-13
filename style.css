@@ -38,13 +38,9 @@ h2{
     border: 5px solid;
     border-image: linear-gradient(orange,tomato,purple);
     border-image-slice: 1;
-    
 }
 .aline{
-    text-align: center;
-    
-
-}
+    text-align: center;}
 .back-img{
     background-image: url(images/shapes/7.png);
     background-color: rgba(255, 166, 0, 0.205);
