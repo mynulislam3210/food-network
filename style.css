@@ -1,74 +1,82 @@
-body{
-    font-family: 'Poppins', sans-serif;
-    margin: 0;
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
 }
-h1{
-    font-size: 50px;
+h1 {
+  font-size: 50px;
 }
-h2{
-    font-size: 40px;
+h2 {
+  font-size: 40px;
+  text-align: center;
 }
-.flexible-section{
-    display: flex;
-    margin-left: 40px;
-    padding-bottom: 50px;
+.flexible-section {
+  display: flex;
+  margin-left: 40px;
+  padding-bottom: 50px;
 }
-.padding-bottom{
-    padding-bottom: 70px;
+.padding-bottom {
+  padding-bottom: 70px;
 }
-.flexible-section2{display: flex;
-
+.flexible-section2 {
+  display: flex;
 }
-.images img{
-    width: 97%;
-    height: 55%;
-    padding-right: 100%;
+.images img {
+  width: 97%;
+  height: 55%;
+  padding-right: 100%;
 }
-.padding-innerbox{
-    padding-bottom: 50px;
-    padding-left: 10px;
+.padding-innerbox {
+  padding-bottom: 50px;
+  padding-left: 10px;
 }
-.width3{
-    width: 32%;
-    margin: 2%;
-    padding-left: 12px;
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 20px;
-    padding-top: 13px;
-    border: 5px solid;
-    border-image: linear-gradient(orange,tomato,purple);
-    border-image-slice: 1;
+.width3 {
+  width: 32%;
+  margin: 2%;
+  padding-left: 12px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 20px;
+  padding-top: 13px;
+  border-image-slice: 1;
 }
-.aline{
-    text-align: center;}
-.back-img{
-    background-image: url(images/shapes/7.png);
-    background-color: rgba(255, 166, 0, 0.205);
-    background-repeat: no-repeat;
-    background-position: left top;
-    background-size: 100%;
+.aline {
+  text-align: center;
 }
-.padding-top{
-    padding: 190px;
+.back-img {
+  background-image: url(images/shapes/7.png);
+  background-color: rgba(255, 166, 0, 0.205);
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-size: 100%;
 }
-a{
-   background-image: linear-gradient(orange,tomato);
-    text-decoration: none;
-    padding: 10px 15px 12px;
-    border-radius: 20px;
-    color: aliceblue;
-    font-weight: 400;
-
+.padding-top {
+  padding: 190px;
 }
-.half-width{
-    width: 50%;
+a {
+  background-image: linear-gradient(orange, tomato);
+  text-decoration: none;
+  padding: 10px 15px 12px;
+  border-radius: 20px;
+  color: aliceblue;
+  font-weight: 400;
 }
-.half-width2{
-    width: 50%;
+.half-width {
+  width: 50%;
 }
-.half-width2 img{
-    width: 100%;
-    height: 75%;}
-.orange-color{
-    color: orange
+.half-width2 {
+  width: 50%;
+}
+#image {
+  width: 400px;
+  height: 400px;
+}
+.orange-color {
+  color: orange;
+}
+footer p {
+  text-align: center;
+  padding: 90px;
+  color: aliceblue;
+}
+.footer {
+  background-color: black;
 }
