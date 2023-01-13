@@ -12,6 +12,9 @@ h1{
 }
 .aline{
     text-align: center;
+    padding-left: 25%;
+    padding-right: 25%;
+
 }
 .back-img{
     background-image: url(images/shapes/7.png);
